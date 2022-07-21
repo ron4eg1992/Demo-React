@@ -1,7 +1,9 @@
-import { changeLoanSize } from "../store/loanSlice";
-import Slider from "@mui/material/Slider";
-import { styled } from "@mui/material/styles";
 import { useDispatch } from "react-redux";
+
+import Slider from "@mui/material/Slider";
+import { changeLoanSize } from "../store/loanSlice";
+import { styled } from "@mui/material/styles";
+
 
 
 

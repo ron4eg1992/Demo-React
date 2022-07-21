@@ -1,10 +1,14 @@
+import { useState } from "react";
+import { useAppSelector } from "../store/redux";
+
 import { Grid } from "@mui/material";
+
 import { MyAccordion } from '../components/MyAccordion'
 import LoanSlider from '../components/LoanSlider'
-import Tooltips from '../assets/data/tooltips.json'
 import Stepper from '../components/Stepper'
-import { useAppSelector } from "../store/redux";
-import { useState } from "react";
+
+import Tooltips from '../assets/data/tooltips.json'
+
 
 
 
