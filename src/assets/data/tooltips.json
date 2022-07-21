@@ -1,0 +1,29 @@
+{
+   "tooltips":[
+        {
+            "id":1,
+            "title":"Tips from ReactDemo",
+            "text":"Your loan amount should not exceed the total cost of attendance minus any financial aid received."
+
+        },
+        {
+            "id":2,
+            "title":"Can I estimate how much I need?",
+            "text":"#2 Your loan amount should not exceed the total cost of attendance minus any financial aid received."
+
+        },
+        {
+            "id":3,
+            "title":"How long does this application take?",
+            "text":"#3 Your loan amount should not exceed the total cost of attendance minus any financial aid received."
+
+        },
+        {
+            "id":4,
+            "title":"How do I receive the funds for my loan?",
+            "text":"#4 Your loan amount should not exceed the total cost of attendance minus any financial aid received."
+
+        }
+
+   ]
+}
